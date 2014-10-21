@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Blogs on artner.co </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>http://artner.co/blog/index.xml</link>
+    <language>en-us</language>
+    <author>Casey Artner</author>
+    <copyright>Casey Artner</copyright>
+    <updated>Tue, 21 Oct 2014 07:19:00 PDT</updated>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://artner.co/2014/10/first-post/</link>
+      <pubDate>Tue, 21 Oct 2014 07:19:00 PDT</pubDate>
+      <author>Casey Artner</author>
+      <guid>http://artner.co/2014/10/first-post/</guid>
+      <description>&lt;p&gt;Hello! This is the initial upload of my new site. Hopefully I will start blogging and have meaningful things to say.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I am hacking away while searching for a place to put my coding, strategy, and design skills to work!&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s a bit late now, so I&amp;rsquo;m going to sign off. Cheers!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
